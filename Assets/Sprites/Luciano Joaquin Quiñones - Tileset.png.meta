@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: b25b194a4e28a4e4a94ec9151978c080
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c17b3f035b1bfc4d8cd780615ceb176
+      internalID: -1319306658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_1"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 460
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c25b67570686f47a0d7ece2d003b5f
+      internalID: 1689251950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_2"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 460
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d81f67bf30931b438c6dff224ba4f79
+      internalID: 1360834343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_3"
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 460
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54854bd599a90164fa77f7d5194b76db
+      internalID: -724112838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_4"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 460
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb48450df8e31541b31fd5bc7ec7e25
+      internalID: -1775268106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_5"
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 460
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67c00c18df0d62449146f629f5e1d42
+      internalID: -1301695741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_6"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 460
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d631d1f9639d9e47b58e4711af0c135
+      internalID: 1828910318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_7"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 460
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc97ed97212e8643ad4826f6d9c55a2
+      internalID: 789009400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_8"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 440
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b72ee7b0d0baf46bf926c526936e4b
+      internalID: 1668334102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_9"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 440
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4f47c282a4a8f49ba255772b02a303
+      internalID: -1398417671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_10"
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 440
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219dc028465e62c4fbe8c651d2056ac5
+      internalID: 510188376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_11"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 440
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885cb34b32af6845abdd2e66807f987
+      internalID: -1843865876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_12"
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 440
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82bcccd681e6714c88394b370df430f
+      internalID: -1183891745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_13"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 370
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e7563989f1144ba2241f65b85b2e8
+      internalID: -1730617199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_14"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 370
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92140ae6fe7a5f6459a047d917141a10
+      internalID: -1880100470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_15"
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 370
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01958c13398d1f1438cf71cd4153b68a
+      internalID: 302623232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_16"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 350
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a86062f254122f44a8958814b31a035
+      internalID: 827173180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_17"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 350
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bef880de0f7984bb42d90f311e2f03
+      internalID: -1954891107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_18"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 330
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4aff1e52c5dd44f97c95f5f3b78626
+      internalID: -1720306025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Luciano Joaquin Qui\xF1ones - Tileset_19"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 330
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533b5a2b57637ab4ebe44b9d820f4dfc
+      internalID: 491647850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Luciano Joaquin Qui\xF1ones - Tileset_0": -1319306658
+      "Luciano Joaquin Qui\xF1ones - Tileset_1": 1689251950
+      "Luciano Joaquin Qui\xF1ones - Tileset_10": 510188376
+      "Luciano Joaquin Qui\xF1ones - Tileset_11": -1843865876
+      "Luciano Joaquin Qui\xF1ones - Tileset_12": -1183891745
+      "Luciano Joaquin Qui\xF1ones - Tileset_13": -1730617199
+      "Luciano Joaquin Qui\xF1ones - Tileset_14": -1880100470
+      "Luciano Joaquin Qui\xF1ones - Tileset_15": 302623232
+      "Luciano Joaquin Qui\xF1ones - Tileset_16": 827173180
+      "Luciano Joaquin Qui\xF1ones - Tileset_17": -1954891107
+      "Luciano Joaquin Qui\xF1ones - Tileset_18": -1720306025
+      "Luciano Joaquin Qui\xF1ones - Tileset_19": 491647850
+      "Luciano Joaquin Qui\xF1ones - Tileset_2": 1360834343
+      "Luciano Joaquin Qui\xF1ones - Tileset_3": -724112838
+      "Luciano Joaquin Qui\xF1ones - Tileset_4": -1775268106
+      "Luciano Joaquin Qui\xF1ones - Tileset_5": -1301695741
+      "Luciano Joaquin Qui\xF1ones - Tileset_6": 1828910318
+      "Luciano Joaquin Qui\xF1ones - Tileset_7": 789009400
+      "Luciano Joaquin Qui\xF1ones - Tileset_8": 1668334102
+      "Luciano Joaquin Qui\xF1ones - Tileset_9": -1398417671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
