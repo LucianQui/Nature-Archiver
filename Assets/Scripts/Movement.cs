@@ -7,7 +7,7 @@ public class Movement : MonoBehaviour
     private Rigidbody2D _rb;
     public float moveSpeed = 6f;
     private float Horizontal;
-    public float jumpForce = 6f;
+    public float jumpForce = 5f;
     private bool isGrounded = true;
     private Animator Animator;
 
@@ -32,16 +32,14 @@ public class Movement : MonoBehaviour
         Horizontal = Input.GetAxisRaw("Horizontal");
         Animator.SetBool("walking", Horizontal != 0.0f);
 
-        if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
-        {
-            transform.localScale = new Vector3(-1f, 1f, 1f);
-        }
-        else if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
-        {
-            transform.localScale = new Vector3(1f, 1f, 1f);
-        }
-
+        if (Horizontal < 0.0f) transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
+        else if (Horizontal > 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
           
+    }
+
+    private void FixedUpdate()
+    {
+        _rb.velocity = new Vector2(Horizontal, _rb.velocity.y);
     }
 
     void Jump()
@@ -58,6 +56,5 @@ public class Movement : MonoBehaviour
             isGrounded = true;
         }
     }
-
-
+    
 }
